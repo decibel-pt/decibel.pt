@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="76" viewBox="175.55 262 224 49.48837209" role="img" aria-labelledby="title">
+  <title id="title">Décibel</title>
+  <!-- Recreated from logo_vectorial2.ai / page 2 / upper white lockup. Original outlined paths, sRGB gradient. Wordmark baseline aligned with the white d inside the emblem after removing the descriptor. -->
+  <defs>
+    <linearGradient id="emblem" gradientUnits="userSpaceOnUse" x1="183.1240234" y1="560.3671875" x2="226.1344871" y2="549.893898">
+      <stop offset="0.0%" stop-color="#ef4624" style="stop-color:#ef4624;stop-opacity:1" />
+      <stop offset="6.25%" stop-color="#eb4324" style="stop-color:#eb4324;stop-opacity:1" />
+      <stop offset="12.5%" stop-color="#e74125" style="stop-color:#e74125;stop-opacity:1" />
+      <stop offset="18.75%" stop-color="#e43e25" style="stop-color:#e43e25;stop-opacity:1" />
+      <stop offset="25.0%" stop-color="#e03c25" style="stop-color:#e03c25;stop-opacity:1" />
+      <stop offset="31.25%" stop-color="#dd3925" style="stop-color:#dd3925;stop-opacity:1" />
+      <stop offset="37.5%" stop-color="#da3725" style="stop-color:#da3725;stop-opacity:1" />
+      <stop offset="43.75%" stop-color="#d63525" style="stop-color:#d63525;stop-opacity:1" />
+      <stop offset="50.0%" stop-color="#d33225" style="stop-color:#d33225;stop-opacity:1" />
+      <stop offset="56.25%" stop-color="#d13025" style="stop-color:#d13025;stop-opacity:1" />
+      <stop offset="62.5%" stop-color="#cd2d25" style="stop-color:#cd2d25;stop-opacity:1" />
+      <stop offset="68.75%" stop-color="#ca2a25" style="stop-color:#ca2a25;stop-opacity:1" />
+      <stop offset="75.0%" stop-color="#c82825" style="stop-color:#c82825;stop-opacity:1" />
+      <stop offset="81.25%" stop-color="#c52625" style="stop-color:#c52625;stop-opacity:1" />
+      <stop offset="87.5%" stop-color="#c22325" style="stop-color:#c22325;stop-opacity:1" />
+      <stop offset="93.75%" stop-color="#c12125" style="stop-color:#c12125;stop-opacity:1" />
+      <stop offset="100.0%" stop-color="#be1f25" style="stop-color:#be1f25;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <g>
+    <path transform="matrix(1,0,0,-1,0,841.89)" d="M204.527 576.626 193.443 573.747C185.104 571.581 180.156 563.267 182.391 555.176L185.364 544.423C185.404 544.279 185.461 544.145 185.505 544.003 187.92 536.173 196.32 531.571 204.511 533.698L215.595 536.578C223.934 538.745 228.881 547.059 226.644 555.149L223.673 565.9C222.867 568.815 221.24 571.304 219.097 573.192 219.415 573.126 216.53 574.962 216.315 575.15 214.39 576.216 212.227 576.869 209.975 577.067 209.493 577.11 209.006 577.132 208.516 577.132 207.198 577.132 205.86 576.973 204.527 576.626" fill="url(#emblem)" />
+    <path transform="matrix(1,0,0,-1,196.5557,287.42713)" d="M0 0C0 3.563 .953 4.111 4.809 4.111H15.2V-2.386C15.2-5.689 14.393-6.462 10.941-6.462H4.846C.953-6.462 0-5.837 0-2.351ZM11.088-11.087C18.504-11.087 20.672-8.812 20.672-2.497V15.238H15.2V8.813H4.149C-3.304 8.813-5.471 6.535-5.471 .184V-2.497C-5.471-8.812-3.304-11.087 4.149-11.087Z" fill="#be1e2d" fill-rule="evenodd" />
+    <path transform="matrix(1,0,0,-1,196.918,287.7362)" d="M0 0C0 3.563 .953 4.111 4.809 4.111H15.2V-2.386C15.2-5.689 14.393-6.462 10.941-6.462H4.846C.953-6.462 0-5.837 0-2.351ZM11.088-11.087C18.504-11.087 20.672-8.812 20.672-2.497V15.238H15.2V8.813H4.149C-3.304 8.813-5.471 6.535-5.471 .184V-2.497C-5.471-8.812-3.304-11.087 4.149-11.087Z" fill="#ffffff" fill-rule="evenodd" />
+    <g opacity=".149994">
+      <g>
+        <path transform="matrix(1,0,0,-1,190.9473,297.44624)" d="M0 0 11.083 2.879C19.422 5.045 24.369 13.359 22.133 21.449L19.162 32.201C19.122 32.345 19.072 32.482 19.028 32.624 17.246 32.78 15.408 32.658 13.579 32.182L2.496 29.303C-5.844 27.137-10.792 18.823-8.556 10.732L-5.583-.02C-5.543-.164-5.486-.299-5.442-.441-3.662-.597-1.827-.475 0 0" fill="#ffffff" />
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0 3.484)">
+    <path transform="matrix(1,0,0,-1,240.4756,284.55415)" d="M0 0C0 3.465 .93 4 4.679 4H14.784V-2.32C14.784-5.535 13.999-6.284 10.644-6.284H4.714C.93-6.284 0-5.678 0-2.285ZM10.785-10.785C17.999-10.785 20.106-8.57 20.106-2.428V14.821H14.784V8.572H4.036C-3.214 8.572-5.321 6.357-5.321 .18V-2.428C-5.321-8.57-3.214-10.785 4.036-10.785Z" fill="#ffffff" fill-rule="evenodd" />
+    <path transform="matrix(1,0,0,-1,277.8555,273.4466)" d="M0 0 5.679 7.785H.071L-4.394 0ZM6.249-10.75H-8.322V-9.714C-8.322-6.928-7.465-6.643-4.785-6.643H4.07C5.679-6.643 6.249-6.964 6.249-8.25ZM11.57-14.178V-7.821C11.57-4.75 10.034-2.535 4.499-2.535H-4.858C-11.678-2.535-13.644-4.429-13.644-10.072V-14.536C-13.644-19.678-11.25-21.893-5.107-21.893H7.187V-17.856H-5.107C-7.607-17.856-8.322-17.428-8.322-15.07V-14.178Z" fill="#ffffff" fill-rule="evenodd" />
+    <path transform="matrix(1,0,0,-1,316.125,295.33924)" d="M0 0V4.501H-13.855C-17.177 4.501-17.998 5.43-17.998 8.5V10.785C-17.998 13.965-17.213 14.785-13.855 14.785H-.035V19.357H-14.033C-21.213 19.357-23.32 17.143-23.32 10.965V8.357C-23.32 2.215-21.213 0-14.033 0Z" fill="#ffffff" fill-rule="evenodd" />
+    <path transform="matrix(1,0,0,-1,323.2559,274.87635)" d="M0 0C1.357 0 1.857 .501 1.857 1.645V3.715C1.857 4.857 1.357 5.322 0 5.322H-1.75C-3.07 5.322-3.571 4.857-3.571 3.715V1.645C-3.571 .501-3.07 0-1.75 0ZM1.857-1.606H-3.572V-20.462002H1.857ZM1.857-20.463" fill="#ffffff" fill-rule="evenodd" />
+    <path transform="matrix(1,0,0,-1,348.9922,286.83924)" d="M0 0C0-3.215-.821-3.999-4.179-3.999H-10.606C-13.965-3.999-14.749-3.215-14.749-.035V6.285H-4.179C-.821 6.285 0 5.643 0 2.285ZM-4-8.5C3.214-8.5 5.321-6.285 5.321-.143V2.465C5.321 8.643 3.214 10.857-4 10.857H-14.749V17.106H-20.071V-.143C-20.071-6.285-17.964-8.5-10.785-8.5Z" fill="#ffffff" fill-rule="evenodd" />
+    <path transform="matrix(1,0,0,-1,377.7637,284.1966)" d="M0 0H-14.57V1.036C-14.57 3.822-13.713 4.107-11.035 4.107H-2.179C-.571 4.107 0 3.786 0 2.5ZM5.321-3.428V2.929C5.321 6 3.786 8.215-1.75 8.215H-11.106C-17.928 8.215-19.892 6.321-19.892 .678V-3.786C-19.892-8.928-17.499-11.143-11.355-11.143H.939V-7.106H-11.355C-13.855-7.106-14.57-6.678-14.57-4.32V-3.428Z" fill="#ffffff" fill-rule="evenodd" />
+    <path transform="matrix(1,0,0,-1,0,841.89)" d="M392.071 572.157H386.643V546.55099H392.071Z" fill="#ffffff" fill-rule="evenodd" />
+  </g>
+</svg>
