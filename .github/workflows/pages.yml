@@ -27,6 +27,7 @@ jobs:
           node --check assets/languages.js
           node --check assets/business.js
           node --check assets/maintenance.js
+          node --check assets/host.js
       - name: Check HTML, JavaScript and CSS formatting
         run: npx --yes prettier@latest --check index.html "assets/**/*.{js,css}"
       - name: Check Python formatting
